@@ -1,13 +1,12 @@
-## Hi there 👋 I'm Artem
+## Hi there 👋 I'm Artyom
 
 **Fullstack Developer | Vue.js & NestJS Specialist**
 
-- 🔭 I'm currently working on: [secret]
-- 🌱 I'm currently learning: [GoLang]
+- 🌱 I'm currently learning: [GoLang, Computer Graphics Technologies (Rendering, Ray Tracing, etc.), GameDev]
 - 👯 I'm looking to collaborate on: Vue/NestJS open-source projects
 - 💬 Ask me about: Vue 3, NestJS, TypeScript, or fullstack architecture
 - 📫 How to reach me: artem.nesin@gmail.com / https://www.linkedin.com/in/inesin
-- ⚡ Fun fact: [I learned Java to code in C#]
+- ⚡ Fact: [In love with low-level programming]
 
 ### 🛠️ My Technical Arsenal
 
@@ -22,5 +21,6 @@ const myStack = {
     framework: 'NestJS',
     language: 'TypeScript',
     architecture: 'Modular & DI'
-  }
+  },
+  experience: ['Docker', 'Redis', 'RabbitMQ', 'WebSockets', 'C#', 'Java', 'Kotlin', 'Ktor', 'C++']
 }
