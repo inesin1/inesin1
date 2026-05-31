@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning: **GoLang, Computer Graphics Technologies (Rendering, Ray Tracing, etc.), GameDev**
 - 👯 I'm looking to collaborate on: **Vue/NestJS open-source projects**
-- 📫 How to reach me: artem.nesin@gmail.com / https://www.linkedin.com/in/inesin
+- 📫 How to reach me: artyom@nesin.dev / https://www.linkedin.com/in/inesin
 - ⚡ Fact: **In love with low-level programming**
 
 ### 🛠️ My Technical Arsenal
