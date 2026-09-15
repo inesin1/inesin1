@@ -12,9 +12,13 @@
 
 ## 🕹️ New Game +
 
-Save file loaded: **4 years** of shipping fullstack TypeScript systems, mostly for one very demanding retail client. I specialize in duct-taping stable systems on top of third-party APIs that were never designed to be stable: queues, caching, idempotency, the works.
+```
+> SAVE FILE LOADED!
+```
 
-Shipped three production systems end-to-end there: architecture, roadmap, and the pager duty that came with owning them.
+TypeScript and NestJS on the backend, Vue on the front, currently adding Angular to the party.
+
+I like taking things from a blank repo to production, and I'm weirdly at home duct-taping stability onto third-party APIs that were never built to be stable: queues, caching, idempotency, the works.
 
 ## ⚔️ Current Quest
 
