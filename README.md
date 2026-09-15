@@ -3,16 +3,16 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Press%20Start%202P&size=38&width=700&height=90&center=true&vCenter=true&repeat=false&background=0D1117&color=3FB950&lines=ARTYOM+NESIN" alt="Artyom Nesin" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Press%20Start%202P&size=13&pause=1200&width=560&height=50&center=true&vCenter=true&background=00000000&color=FBBF24&lines=BACKEND+ENGINEER;TS+AND+NESTJS+BY+DAY;GRINDING+ANGULAR+RIGHT+NOW;RAY+TRACING+FOR+FUN" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Press%20Start%202P&size=13&pause=1200&width=560&height=50&center=true&vCenter=true&background=00000000&color=7C3AED&lines=BACKEND+ENGINEER;TS+AND+NESTJS+BY+DAY;GRINDING+ANGULAR+RIGHT+NOW;RAY+TRACING+FOR+FUN" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Press%20Start%202P&size=13&pause=1200&width=560&height=50&center=true&vCenter=true&background=00000000&color=7C3AED&lines=BACKEND+ENGINEER;TS+AND+NESTJS+BY+DAY;GRINDING+ANGULAR+RIGHT+NOW;RAY+TRACING+FOR+FUN" alt="typing tagline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Press%20Start%202P&size=13&pause=1200&width=560&height=50&center=true&vCenter=true&background=00000000&color=FBBF24&lines=FULLSTACK+ENGINEER;TS+NESTJS+AND+VUE;GRINDING+ANGULAR+RIGHT+NOW;RAY+TRACING+FOR+FUN" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Press%20Start%202P&size=13&pause=1200&width=560&height=50&center=true&vCenter=true&background=00000000&color=7C3AED&lines=FULLSTACK+ENGINEER;TS+NESTJS+AND+VUE;GRINDING+ANGULAR+RIGHT+NOW;RAY+TRACING+FOR+FUN" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press%20Start%202P&size=13&pause=1200&width=560&height=50&center=true&vCenter=true&background=00000000&color=7C3AED&lines=FULLSTACK+ENGINEER;TS+NESTJS+AND+VUE;GRINDING+ANGULAR+RIGHT+NOW;RAY+TRACING+FOR+FUN" alt="typing tagline" />
 </picture>
 
 </div>
 
 ## 🕹️ New Game +
 
-Save file loaded: **4 years** of shipping backend systems in TypeScript, mostly for one very demanding retail client. I specialize in duct-taping stable systems on top of third-party APIs that were never designed to be stable: queues, caching, idempotency, the works.
+Save file loaded: **4 years** of shipping fullstack TypeScript systems, mostly for one very demanding retail client. I specialize in duct-taping stable systems on top of third-party APIs that were never designed to be stable: queues, caching, idempotency, the works.
 
 Shipped three production systems end-to-end there: architecture, roadmap, and the pager duty that came with owning them.
 
