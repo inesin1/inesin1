@@ -58,9 +58,3 @@ Shipped three production systems end-to-end there: architecture, roadmap, and th
 [![Site](https://img.shields.io/badge/site-nesin.dev-06B6D4?style=flat-square)](https://nesin.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-inesin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inesin)
 [![Telegram](https://img.shields.io/badge/telegram-%40kurtr2d-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kurtr2d)
-
-<div align="center">
-
-🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦
-
-</div>
